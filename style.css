@@ -12,6 +12,10 @@ h1, h2, h3 {
     font-family: Garamond, serif;
 }
 
-p {
+p, li {
     font-family: "Lucida Handwriting", cursive;
+}
+
+li {
+    margin-bottom: 20px;
 }
