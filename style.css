@@ -17,6 +17,7 @@ h1, h2, h3 {
 p, li {
     font-family: "Lucida Handwriting", cursive;
     text-align: justify;
+    max-width: 1000px;
 }
 
 li {
