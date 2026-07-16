@@ -19,3 +19,7 @@ p, li {
 li {
     margin-bottom: 20px;
 }
+
+span {
+    font-style: italic;
+}
