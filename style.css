@@ -5,7 +5,9 @@ html {
 }
 
 body {
-    margin-left: 15px;
+    margin-block: 30px;
+    margin-inline: auto;
+    width: 95vw;
 }
 
 h1, h2, h3 {
